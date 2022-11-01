@@ -1,4 +1,7 @@
 .env
 env
 node_modules
-server/logs
+server/logs 
+client/node_modules/.cache/.eslintcache
+client/node_modules/.cache/default-development/0.pack
+client/node_modules/.cache/default-development/index.pack
